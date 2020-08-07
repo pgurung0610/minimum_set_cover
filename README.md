@@ -1,10 +1,7 @@
 # Minimum Set Cover
 This is a Java implementation of a backtracking algorithm for the minimum set cover problem.
 
-The input is a set of elements (elementsToBeCovered) and a set of subsets of those elements (subsetsOfElementsToBeCovered). The output is the smallest subset of subsetsOfElementsToBeCovered that includes every element of elementsToBeCovered.
-
-# Requirements
-- Java SE 11
+The input is a set of elements (elems) and a set of subsets of those elements (subElems). The output is the smallest subset of subElems that includes every element of elems.
 
 # Instructions
 After cloning the repository, compile and run SetCover.java
